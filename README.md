@@ -1,4 +1,4 @@
-Chinese Checkers Game
+
 Welcome to the Chinese Checkers Game, my final project implementation! This application offers a rich and interactive gaming experience, allowing you to enjoy Chinese Checkers in various exciting modes.
 
 Features
