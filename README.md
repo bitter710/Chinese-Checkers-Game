@@ -1,8 +1,45 @@
-# Chinese-Checkers-Game
 Chinese Checkers Game
+Welcome to the Chinese Checkers Game, my final project implementation! This application offers a rich and interactive gaming experience, allowing you to enjoy Chinese Checkers in various exciting modes.
 
-Hi there!
-This is my final project implementation for chinese checkers game. When running this application, youcan enjoy an attractive game, where you should play againts the computer in different levels of difficulties, enjoy a game with your friends and run a tournament with regular and computer players as well. User has the oppurtuninty to continue an old game by inserting a game id and getting game and tournament satistics too. For full experience, turn on the volume!
+Features
+Engaging Gameplay: Play against an intelligent computer opponent with multiple difficulty levels.
 
-in order to run the game you should follow the requirement file, which means you should open a virtual environment and download the libraries from the requiremnt file. Just run main.py in command line after applying the venv and enjoy the game!
+Multiplayer Fun: Challenge your friends in a vibrant multiplayer mode.
 
+Tournament Mode: Organize and participate in tournaments featuring both human and computer players.
+
+Game Persistence: Easily resume previous games by simply entering a unique game ID.
+
+Statistics Tracking: Access comprehensive game and tournament statistics to track your progress and performance.
+
+Immersive Experience: For the best experience, remember to turn on your volume and enjoy the captivating sounds!
+
+Getting Started
+To run this game, please follow these simple steps to set up your environment and install the necessary dependencies:
+
+Create a Virtual Environment:
+It is highly recommended to use a virtual environment to manage project dependencies.
+
+python -m venv venv
+
+Activate the Virtual Environment:
+
+Windows:
+
+.\venv\Scripts\activate
+
+macOS/Linux:
+
+source venv/bin/activate
+
+Install Dependencies:
+Once your virtual environment is active, install all required libraries using the requirements.txt file:
+
+pip install -r requirements.txt
+
+Run the Game:
+After successfully setting up the environment and installing dependencies, you can launch the game from your command line:
+
+python main.py
+
+Enjoy the game!
